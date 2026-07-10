@@ -128,6 +128,6 @@ npx jest --testNamePattern="should block transaction"
 | Transaction controller       | > 85%  |
 | Account controller           | > 80%  |
 | Balance protection controller| > 85%  |
-| Import/export logic          | > 80%  |
+| Import/Export logic          | > 80%  |
 
 > **Note:** The first test run downloads the MongoDB binary (~509MB). Subsequent runs use the cached binary and are much faster.

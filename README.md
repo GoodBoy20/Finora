@@ -86,8 +86,6 @@ cd client
 npm run dev
 ```
 
-Visit **http://localhost:5173**
-
 ### 5. Default Categories
 
 Default categories (Food, Transport, Housing, etc.) are seeded automatically on first run.

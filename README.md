@@ -1,5 +1,8 @@
 # FINORA — Personal Finance Tracker
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://finora-two-theta.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/GoodBoy20/Finora)
+
 A full-stack personal finance management application built with the MERN stack. Features JWT + Security Key (2FA) authentication, transaction tracking, budgets, reports, recurring transactions, and automation rules.
 
 ## Tech Stack

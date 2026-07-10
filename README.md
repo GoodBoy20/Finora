@@ -5,6 +5,35 @@
 
 A full-stack personal finance management application built with the MERN stack. Features JWT + Security Key (2FA) authentication, transaction tracking, budgets, reports, recurring transactions, and automation rules.
 
+## 📸 Screenshots
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📝 Register
+![Register](screenshots/register.png)
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 💳 Accounts
+![Accounts](screenshots/accounts.png)
+
+### 💸 Transactions
+![Transactions](screenshots/transactions.png)
+
+### 📊 Budgets
+![Budgets](screenshots/budgets.png)
+
+### 📈 Reports
+![Reports](screenshots/reports.png)
+
+### 🔁 Recurring Transactions
+![Recurring Transactions](screenshots/recurring.png)
+
+### 🤖 AI Insights
+![AI Insights](screenshots/AI%20Insights.png)
+
 ## Tech Stack
 
 - **Frontend**: React (Vite), Tailwind CSS, Recharts, React Router v6

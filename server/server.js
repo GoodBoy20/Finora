@@ -26,6 +26,14 @@ app.use(cors({ origin: process.env.CLIENT_URL || 'http://localhost:5173', creden
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get("/", (req, res) => {
+  res.send("Finora Backend is Running 🚀");
+});
+
+app.get("/test", (req, res) => {
+  res.send("Test Route Working");
+});
+
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/accounts', accountRoutes);

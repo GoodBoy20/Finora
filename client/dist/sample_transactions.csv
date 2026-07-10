@@ -1,0 +1,4 @@
+date,amount,type,category,description,account,toAccount
+2026-03-25,45000,income,Salary,Monthly salary credit,SBI
+2026-03-25,1200,expense,Food & Dining,Weekly grocery shopping,HDFC
+2026-03-25,10000,transfer,,Moving to wallet,HDFC,SBI
